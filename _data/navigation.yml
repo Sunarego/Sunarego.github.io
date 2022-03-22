@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About natto"
+  - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Works"
     url: /year-archive/
-  - title: "Contact Us"
+  - title: "Contact"
     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
