@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoye Liu"
-  avatar           : path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "个人介绍文本，测试"
   location         : "Shanghai"
   email            :
