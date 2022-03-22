@@ -1,6 +1,6 @@
 ---
 title: "Oriole 公园双人自行车"
-excerpt: "融合严谨机械和人本温度的特别设计。"
+excerpt: "融合严谨机械和人本温度的特别设计"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
