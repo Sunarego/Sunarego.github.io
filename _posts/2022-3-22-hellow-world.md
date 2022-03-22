@@ -1,6 +1,6 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "消逝-测量的色彩维度"
+excerpt: "这是一把会让你忍不住拉开使用的卷尺。"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
